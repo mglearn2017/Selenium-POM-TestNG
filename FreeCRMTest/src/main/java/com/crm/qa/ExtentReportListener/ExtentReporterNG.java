@@ -2,7 +2,7 @@
  * @autor : 1
  * 
  */
-package com.crm.qa.ExtentReportListener;
+package com.cr.qa.ExtentReportListener;
 
 import java.io.File;
 import java.util.Calendar;
